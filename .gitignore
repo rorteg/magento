@@ -1,0 +1,12 @@
+.settings/*
+.project
+.buildpath
+downloader/*
+errors/*
+includes/*
+lib/*
+media/*
+pkginfo/*
+shell/*
+var/*
+.htaccess
